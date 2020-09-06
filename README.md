@@ -33,7 +33,7 @@ A simple webpack developed by myself is for mastering webpack better.
 - 将AST转换成源码，借助了babel-core,安装：`npm i babel-core -S`
 - es2015,es2016,es2017的语法都可以借助env来解析,安装：`npm i @babel/preset-env -S` 和 `npm i babel-preset-env -S`
 
-### How to run
+# How to run
 1. 清空 main.js 文件中代码，以便查看运行效果
 2. 命令行输入`npm run build`或者`node lib/index.js`
 3. 查看main.js，已生成想要的js代码
