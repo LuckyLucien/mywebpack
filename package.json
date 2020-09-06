@@ -1,0 +1,27 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "A simple webpack developed by myself is for mastering webpack better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyLucien/mywebpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuckyLucien/mywebpack/issues"
+  },
+  "homepage": "https://github.com/LuckyLucien/mywebpack#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.11.5",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-traverse": "^6.26.0",
+    "babylon": "^6.18.0"
+  }
+}
