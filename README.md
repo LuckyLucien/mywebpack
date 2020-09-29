@@ -7,7 +7,7 @@ A simple webpack developed by myself is for mastering webpack better.
 - 通过`babylon`生成AST
 - 通过`babel-core`将AST重新生成源代码
 ### 2.可以分析模块之间的依赖关系
-- 通过`babel-travere`的importDeclaration方法获取依赖属性
+- 通过`babel-traverse`的importDeclaration方法获取依赖属性
 ### 3.生成js文件可以在浏览器中运行
 
 
